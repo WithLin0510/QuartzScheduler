@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EnvironmentConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <JztCorpList>
+    <JztCorp Code="FDG" Name="十堰测试" IPAddress="http://10.3.4.177:20361/api/interface/" AssemblyName="" FullClassName="" CustomIPAddress="http:/10.3.4.177:9004/api/commonquery/GetDataSetBySqlScript" />
+    <!--<JztCorp Code="FDG" Name="湖北公司" IPAddress="http://10.3.3.149:20361/" AssemblyName="" FullClassName=""  CustomIPAddress=""/>-->
+    <JztCorp Code="FDA" Name="湖南公司" IPAddress="127.0.0.2" AssemblyName="" FullClassName="" CustomIPAddress="" />
+    <JztCorp Code="FDL" Name="上海公司" IPAddress="http://10.3.4.177:20361/api/interface/" AssemblyName="" FullClassName="" CustomIPAddress="" />
+    <JztCorp Code="FQ6" Name="上海器械公司" IPAddress="http://10.3.4.177:20361/api/interface/" AssemblyName="" FullClassName=""  CustomIPAddress=""/>
+    <JztCorp Code="FDQ" Name="山东公司" IPAddress="127.0.0.2" AssemblyName="" FullClassName="" CustomIPAddress="" />
+    <JztCorp Code="FDW" Name="河南公司" IPAddress="http://10.3.4.177:20361/api/interface/" AssemblyName="" FullClassName="" CustomIPAddress="http://10.36.5.66:9004/api/commonquery/GetDataSetBySqlScript" />
+    <JztCorp Code="FDJ" Name="北京公司" IPAddress="http://10.3.4.177:20361/api/interface/" AssemblyName="" FullClassName=""  CustomIPAddress="http://10.21.40.111:9004/api/commonquery/GetDataSetBySqlScript"/>
+    <JztCorp Code="FDB" Name="福建公司" IPAddress="http://10.3.4.177:20361/interface/" AssemblyName="" FullClassName=""  CustomIPAddress="http://10.26.8.9:9004/api/commonquery/GetDataSetBySqlScript"/>
+    <JztCorp Code="FDE" Name="新疆公司" IPAddress="127.0.0.2" AssemblyName="" FullClassName=""  CustomIPAddress=""/>
+    <JztCorp Code="FDC" Name="江苏公司" IPAddress="127.0.0.1" AssemblyName="" FullClassName=""  CustomIPAddress=""/>
+    <JztCorp Code="FWP" Name="长春公司" IPAddress="http://10.131.21.31:20361/api/interface/" AssemblyName="" FullClassName="" CustomIPAddress="" />
+    <JztCorp Code="FC3" Name="杭州公司" IPAddress="http://10.76.37.29:20361/api/interface/" AssemblyName="" FullClassName=""  CustomIPAddress=""/>
+    <JztCorp Code="FWX" Name="山西公司" IPAddress="127.0.0.2" AssemblyName="" FullClassName=""  CustomIPAddress=""/>
+    <JztCorp Code="FTY" Name="山西市药材公司" IPAddress="127.0.0.2" AssemblyName="" FullClassName=""  CustomIPAddress=""/>
+    <JztCorp Code="FB8" Name="四川公司" IPAddress="127.0.0.1" AssemblyName="" FullClassName=""  CustomIPAddress=""/>
+    <JztCorp Code="FD8" Name="江西公司" IPAddress="127.0.0.2" AssemblyName="" FullClassName=""  CustomIPAddress=""/>
+    <JztCorp Code="FWK" Name="湖北太康城公司" IPAddress="127.0.0.2" AssemblyName="" FullClassName=""  CustomIPAddress=""/>
+  </JztCorpList>
+  <TradePlatformList>
+    <!--<TradePlatform Code="PT0039" Name="长春阳光采购平台" IPAddress="tcp://10.131.21.16:8810" AssemblyName="TPI.ChangCun" FullClassName="TPI.ChangCun.TPProxyChangCun" />-->
+    <TradePlatform Code="PT0039" Name="长春阳光采购平台" IPAddress="tcp://127.0.0.1:8810" AssemblyName="TPI.ChangCun" FullClassName="TPI.ChangCun.TPProxyChangCun" />
+    <!--<TradePlatform Code="PT0039" Name="长春阳光采购平台" IPAddress="tcp://127.0.0.1:8810" AssemblyName="TPI.ChangCun" FullClassName="TPI.ChangCun.TPProxyChangCun" />-->
+    <TradePlatform Code="PT0029" Name="河南阳光采购平台" IPAddress="http://ypjk.hnggzyjy.cn:13" AssemblyName="TPI.HeNan" FullClassName="TPI.HeNan.TPProxyHeNan" />
+    <TradePlatform Code="PT0001" Name="上海西药中药阳光采购平台" IPAddress="128.0.0.1" AssemblyName="TPI.ShangHai" FullClassName="TPI.ShangHai.TPProxyShangHai" />
+    <!--<TradePlatform Code="PT0035" Name="杭州阳光采购平台" IPAddress="http://122.224.75.100:13026/com.hsnn.tradeInterface/v1" AssemblyName="TPI.HangZhou" FullClassName="TPI.HangZhou.TPProxyHangZhou" />-->
+    <TradePlatform Code="PT0035" Name="杭州阳光采购平台" IPAddress="http://trade.zgyxcgw.cn:8092/tradeInterface/v1" AssemblyName="TPI.HangZhou" FullClassName="TPI.HangZhou.TPProxyHangZhou" />
+    <!--测试--><!--<TradePlatform Code="PT0040" Name="福建阳光采购平台" IPAddress="http://218.85.72.86/Data/services/DeliveryERPDataService?wsdl" AssemblyName="TPI.FuJian" FullClassName="TPI.FuJian.TPProxyFuJian" />-->
+   <!--正式--> <TradePlatform Code="PT0040" Name="福建阳光采购平台" IPAddress="http://218.85.72.86:6080/Data/services/DeliveryERPDataService?wsdl" AssemblyName="TPI.FuJian" FullClassName="TPI.FuJian.TPProxyFuJian" />
+    
+    <TradePlatform Code="PT0052" Name="北京阳光采购平台" IPAddress="http://210.73.89.77:3027/DataSyncService.asmx" AssemblyName="TPI.BeiJing" FullClassName="TPI.BeiJing.TPProxyBeiJing" />
+    <TradePlatform Code="PT0042" Name="北京社区采购平台" IPAddress="" AssemblyName="TPI.FuJian" FullClassName="TPI.FuJian.TPProxyFuJian" />
+    <TradePlatform Code="PT0046" Name="上海器械阳光采购平台" IPAddress="http://biz.smpaa.cn/ysxtqx-ws/services/dispatcher?wsdl" AssemblyName="TPI.ShangHaiQiXie" FullClassName="TPI.ShangHaiQiXie.TPProxyShangHaiQiXie" />
+    <TradePlatform Code="PT0058" Name="上海GPO平台" IPAddress="http://211.144.80.235/gpodec/webservice/supplierService?wsdl  " AssemblyName="TPI.ShangHaiGPO" FullClassName="TPI.ShangHaiGPO.TPProxyShangHaiGPO" />
+
+  </TradePlatformList>
+  <JztToTradePlatList>
+    <JztToTradePlat JztCorpCode="FWP" TradePlatCode="PT0039" IsEnable="true" /><!--长春ok-->
+    <JztToTradePlat JztCorpCode="FDW" TradePlatCode="PT0029" IsEnable="true" /><!--河南ok-->
+    <JztToTradePlat JztCorpCode="FDL" TradePlatCode="PT0001" IsEnable="true" /><!--上海公司西药中药平台ok-->
+    <JztToTradePlat JztCorpCode="FDG" TradePlatCode="PT0058" IsEnable="true" /><!--上海GPO平台-->
+    <!--<JztToTradePlat JztCorpCode="FDL" TradePlatCode="" IsEnable="true" />--><!--上海公司器械平台-->
+    <JztToTradePlat JztCorpCode="FQ6" TradePlatCode="PT0046" IsEnable="true" /><!--上海器械公司 对接器械平台 ok-->
+    <JztToTradePlat JztCorpCode="FC3" TradePlatCode="PT0035" IsEnable="true" /><!--杭州ok-->
+    <JztToTradePlat JztCorpCode="FDJ" TradePlatCode="PT0052" IsEnable="true" /><!--北京医院ok-->
+    <JztToTradePlat JztCorpCode="FDJ" TradePlatCode="PT0042" IsEnable="true" /><!--北京社区-->
+    <JztToTradePlat JztCorpCode="FDB" TradePlatCode="PT0040" IsEnable="true" /><!--福建FDB ok-->
+  </JztToTradePlatList>
+</EnvironmentConfig>

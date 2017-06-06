@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskBranch xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>FDL_ShangHaiGPO</Name>
+  <BranchID>FC5</BranchID>
+  <TPID>PT0000</TPID>
+  <IsEnable>false</IsEnable>
+  <TaskList>
+
+    <BaseTask xsi:type="SHGPOTEST" Name="SHGPOTEST" Text="SHGPO测试" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="SHGPOPURCHASE" Name="SHGPOPURCHASE" Text="SHGPO配送单上传" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="SHGPODEBITNOTE" Name="SHGPODEBITNOTE" Text="SHGPO正常发票上传" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="SHGPODEBITNOTE1" Name="SHGPODEBITNOTE1" Text="SHGPO退货冲红发票上传" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="SHGPODEBITNOTEXSB" Name="SHGPODEBITNOTEXSB" Text="SHGPO调价补差发票上传" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="SHGPOPAYMENTDOWNLOAD" Name="SHGPOPAYMENTDOWNLOAD" Text="SHGPO货款支付信息下载" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="SHGPOPAYMENTUPLOAD" Name="SHGPOPAYMENTUPLOAD" Text="SHGPO货款发票销账信息上传" IsEnable="false" ScheduleTime="100" />
+    
+  </TaskList>
+</TaskBranch>

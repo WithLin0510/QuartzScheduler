@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SHQXConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <IP>jztyy001</IP>
+  <MAC>1</MAC>
+  <BZXX>"2016-11-01"</BZXX>
+  <username>1</username>
+  <pass>1</pass>
+  <jztbs>1</jztbs>
+  <sVersion>1</sVersion>
+  <lastzxspbm>20170301000000019625</lastzxspbm>
+  <lastddbh></lastddbh>
+  <lasttdbh></lasttdbh>
+  <lastfpbh></lastfpbh>
+  <lastpsmxbh></lastpsmxbh>
+</SHQXConfig>

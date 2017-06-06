@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HNConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ORDERLASTTIME>2017/1/20 16:55:00</ORDERLASTTIME>
+  <ORDERCURRENTPAGE>1</ORDERCURRENTPAGE>
+  <RKORDERLASTTIME>"2016-11-01"</RKORDERLASTTIME>
+  <RKORDERCURRENTPAGE>1</RKORDERCURRENTPAGE>
+</HNConfig>

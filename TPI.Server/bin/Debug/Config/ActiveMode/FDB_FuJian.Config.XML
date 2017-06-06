@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskBranch xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>FDB-FuJian</Name>
+  <BranchID>FDB</BranchID>
+  <TPID>PT0040</TPID>
+  <IsEnable>false</IsEnable>
+  <TaskList>
+    <!--<BaseTask Name="HNname1" Text="HN任务1" IsEnable="true" ScheduleTime="1" />
+    <BaseTask Name="HNname2" Text="HN任务2" IsEnable="true" ScheduleTime="3" />-->
+    <BaseTask xsi:type="FJTEST" Name="FJTEST" Text="FJ测试" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="FJGOODS" Name="FJGOODS" Text="FJ商品资料" IsEnable="false" ScheduleTime="36000" /><!--10小时-->
+    <BaseTask xsi:type="FJSTOCK" Name="FJSTOCK" Text="FJ库存上报" IsEnable="false" ScheduleTime="36000" /><!--10小时-->
+    <BaseTask xsi:type="FJORDER" Name="FJORDER" Text="FJ订单下载" IsEnable="true" ScheduleTime="100" />
+    <BaseTask xsi:type="FJPURCHASE" Name="FJPURCHASE" Text="FJ配送单上传" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="FJRETURNORDER" Name="FJRETURNORDER" Text="FJ退货单下载" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="FJINVOICE" Name="FJINVOICE" Text="FJ退货发票上传" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="FJINVOICEDATAGET" Name="FJINVOICEDATAGET" Text="FJ获取平台上已关联的票据信息" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="FJINVOICEDATAUPLOAD" Name="FJINVOICEDATAUPLOAD" Text="FJ票据信息上传" IsEnable="false" ScheduleTime="100" />
+  </TaskList>
+</TaskBranch>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TPI.BLL.Task">
+    <Position X="12.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ActiveMode\Job.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TPI.BLL.TaskBranch">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAAAAAAAAEAAAQAABAAACBAIAAAAAAAAEA=</HashCode>
+      <FileName>ActiveMode\Task.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="TaskList" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="TPI.BLL.BaseTask" Collapsed="true">
+    <Position X="9.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAABAAAAAAQAAAEACQQAAAAAAAAQAAAADAAAAAA=</HashCode>
+      <FileName>ActiveMode\Task.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPI.BLL.HZTEST">
+    <Position X="8.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ActiveMode\Task.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPI.BLL.CCORDER">
+    <Position X="11" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ActiveMode\Task.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPI.BLL.TaskBranchTest">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ActiveMode\Task.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPI.BLL.TaskManager">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAACAAAAAAAAAAAAAABEAAAAAAIAAAAAAAAQA=</HashCode>
+      <FileName>ActiveMode\TaskManager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="taskBranchList" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="TPI.BLL.TaskBranchCreater">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAQCAAAAAACAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>ActiveMode\TaskManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="TPI.BLL.ExeState">
+    <Position X="2" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ActiveMode\Task.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

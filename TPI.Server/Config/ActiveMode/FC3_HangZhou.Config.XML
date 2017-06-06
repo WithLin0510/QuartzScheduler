@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskBranch xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>FC3-HangZhou</Name>
+  <BranchID>FC3</BranchID>
+  <TPID>PT0035</TPID>
+  <IsEnable>false</IsEnable>
+  <TaskList>
+    <!--<BaseTask Name="name1" Text="任务1" IsEnable="true" ScheduleTime="1" />
+    <BaseTask Name="name2" Text="任务2" IsEnable="true" ScheduleTime="3" />
+    <BaseTask xsi:type="Task1" Name="name3" Text="任务1" IsEnable="true" ScheduleTime="5" />
+    <BaseTask xsi:type="Task2" Name="name4" Text="任务2" IsEnable="true" ScheduleTime="7" />-->
+    <!--<BaseTask Name="HZname1" Text="HZ商品资料" IsEnable="true" ScheduleTime="1" />
+    <BaseTask Name="HZname2" Text="HZ医院信息" IsEnable="true" ScheduleTime="3" />
+    <BaseTask Name="HZname3" Text="HZ厂家信息" IsEnable="true" ScheduleTime="3" />-->
+    <BaseTask xsi:type="HZTEST" Name="HZTEST" Text="HZ测试" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="HZGOODS" Name="HZGOODS" Text="HZ商品资料" IsEnable="false" ScheduleTime="7200" />
+    <!--2小时-->
+    <BaseTask xsi:type="HZHOSPITALS" Name="HZHOSPITALS" Text="HZ医院信息" IsEnable="false" ScheduleTime="7200" />
+    <BaseTask xsi:type="HZCOMPANYS" Name="HZCOMPANYS" Text="HZ厂家信息" IsEnable="false" ScheduleTime="7200" />
+    <BaseTask xsi:type="HZORDER" Name="HZORDER" Text="HZ订单下载" IsEnable="false" ScheduleTime="300" />
+    <BaseTask xsi:type="HZORDERREAD" Name="HZORDERREAD" Text="HZ订单阅读" IsEnable="false" ScheduleTime="60" />
+    <BaseTask xsi:type="HZORDERRESPONSE" Name="HZORDERRESPONSE" Text="HZ订单响应" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="HZORDERNOTRESPONSE" Name="HZORDERNOTRESPONSE" Text="HZ订单拒绝响应" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="HZPURCHASE" Name="HZPURCHASE" Text="HZ配送单上传" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="HZRKORDER" Name="HZRKORDER" Text="HZ收货单下载" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="HZRETURNORDER" Name="HZRETURNORDER" Text="HZ退货单下载" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="HZRETURNORDERRESPONSE" Name="HZRETURNORDERRESPONSE" Text="HZ退货单响应" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="HZRETURNORDERNOTRESPONSE" Name="HZRETURNORDERNOTRESPONSE" Text="HZ退货单拒绝响应" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="HZRETURNDEBITNOTE" Name="HZRETURNDEBITNOTE" Text="HZ退货发票上传" IsEnable="true" ScheduleTime="100" />
+
+    <BaseTask xsi:type="HZGOODSEXIST" Name="HZGOODSEXIST" Text="HZ商品资料是否存在" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="HZHOSPITALSEXIST" Name="HZHOSPITALSEXIST" Text="HZ医院信息是否存在" IsEnable="false" ScheduleTime="100" />
+  </TaskList>
+</TaskBranch>

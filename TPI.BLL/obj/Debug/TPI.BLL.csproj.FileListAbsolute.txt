@@ -1,0 +1,26 @@
+D:\自学\Company\Trunk\01 Source\TPI\TPI.BLL\obj\Debug\TPI.BLL.csprojResolveAssemblyReference.cache
+D:\自学\Company\Trunk\01 Source\TPI\TPI.BLL\bin\Debug\TPI.BLL.dll
+D:\自学\Company\Trunk\01 Source\TPI\TPI.BLL\bin\Debug\TPI.BLL.pdb
+D:\自学\Company\Trunk\01 Source\TPI\TPI.BLL\bin\Debug\Common.Logging.Core.dll
+D:\自学\Company\Trunk\01 Source\TPI\TPI.BLL\bin\Debug\Common.Logging.dll
+D:\自学\Company\Trunk\01 Source\TPI\TPI.BLL\bin\Debug\EntitysLayer.dll
+D:\自学\Company\Trunk\01 Source\TPI\TPI.BLL\bin\Debug\log4net.dll
+D:\自学\Company\Trunk\01 Source\TPI\TPI.BLL\bin\Debug\Newtonsoft.Json.dll
+D:\自学\Company\Trunk\01 Source\TPI\TPI.BLL\bin\Debug\Quartz.dll
+D:\自学\Company\Trunk\01 Source\TPI\TPI.BLL\bin\Debug\TPI.Common.dll
+D:\自学\Company\Trunk\01 Source\TPI\TPI.BLL\bin\Debug\TPI.Common.pdb
+D:\自学\Company\Trunk\01 Source\TPI\TPI.BLL\obj\Debug\TPI.BLL.dll
+D:\自学\Company\Trunk\01 Source\TPI\TPI.BLL\obj\Debug\TPI.BLL.pdb
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.BLL\bin\Debug\TPI.BLL.dll
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.BLL\bin\Debug\TPI.BLL.pdb
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.BLL\bin\Debug\Common.Logging.Core.dll
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.BLL\bin\Debug\Common.Logging.dll
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.BLL\bin\Debug\EntitysLayer.dll
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.BLL\bin\Debug\log4net.dll
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.BLL\bin\Debug\Newtonsoft.Json.dll
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.BLL\bin\Debug\Quartz.dll
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.BLL\bin\Debug\TPI.Common.dll
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.BLL\bin\Debug\TPI.Common.pdb
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.BLL\obj\Debug\TPI.BLL.csprojResolveAssemblyReference.cache
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.BLL\obj\Debug\TPI.BLL.dll
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.BLL\obj\Debug\TPI.BLL.pdb

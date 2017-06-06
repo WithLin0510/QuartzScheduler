@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskBranch xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>FWP-ChangCun</Name>
+  <BranchID>FWP</BranchID>
+  <TPID>PT0039</TPID>
+  <IsEnable>false</IsEnable>
+  <TaskList>
+    <!--<BaseTask Name="CCname1" Text="CC任务1" IsEnable="true" ScheduleTime="1" />
+    <BaseTask Name="CCname2" Text="CC任务2" IsEnable="true" ScheduleTime="3" />-->
+    <BaseTask xsi:type="CCTEST" Name="CCTEST" Text="CC测试" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="CCGOODS" Name="CCGOODS" Text="CC商品资料" IsEnable="false" ScheduleTime="100" /><!--10小时-->
+    <BaseTask xsi:type="CCHOSPITALS" Name="CCHOSPITALS" Text="CC医院信息" IsEnable="false" ScheduleTime="100" /><!--10小时-->
+    <BaseTask xsi:type="CCORDER" Name="CCORDER" Text="CC订单下载" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="CCRETURNORDER" Name="CCRETURNORDER" Text="CC退货单下载" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="CCRETURNORDERRESPONSE" Name="CCRETURNORDERRESPONSE" Text="CC退货单响应" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="CCPURCHASE" Name="CCPURCHASE" Text="CC配送单上传" IsEnable="true" ScheduleTime="100" />
+    <BaseTask xsi:type="CCSTOCK" Name="CCSTOCK" Text="CC库存上报" IsEnable="false" ScheduleTime="100" />
+  </TaskList>
+</TaskBranch>

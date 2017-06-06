@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskBranch xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>FDW-HeNan</Name>
+  <BranchID>FDW</BranchID>
+  <TPID>PT0029</TPID>
+  <IsEnable>false</IsEnable>
+  <TaskList>
+    <!--<BaseTask Name="HNname1" Text="HN任务1" IsEnable="true" ScheduleTime="1" />
+    <BaseTask Name="HNname2" Text="HN任务2" IsEnable="true" ScheduleTime="3" />-->
+    <BaseTask xsi:type="HNTEST" Name="HNTEST" Text="HN测试" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="HNGOODS" Name="HNGOODS" Text="HN商品资料" IsEnable="false" ScheduleTime="36000" /><!--10小时-->
+    <BaseTask xsi:type="HNHOSPITALS" Name="HNHOSPITALS" Text="HN医院信息" IsEnable="false" ScheduleTime="100" /><!--10小时-->
+    <BaseTask xsi:type="HNORDER" Name="HNORDER" Text="HZ订单下载" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="HNPURCHASE" Name="HNPURCHASE" Text="HZ配送单上传" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="HNRKORDER" Name="HNRKORDER" Text="HZ收货单下载" IsEnable="true" ScheduleTime="100" />
+  </TaskList>
+</TaskBranch>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskBranch xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>FQ6_ShangHaiQiXie</Name>
+  <BranchID>FQ6</BranchID>
+  <TPID>PT0046</TPID>
+  <IsEnable>false</IsEnable>
+  <TaskList>
+    <BaseTask xsi:type="SHQXHOSPITALS" Name="SHQXHOSPITALS" Text="SHQX医院配送点信息" IsEnable="true" ScheduleTime="7200" />
+    <BaseTask xsi:type="SHQXUPDATEHOSPITAL" Name="SHQXUPDATEHOSPITAL" Text="SHQX将医院信息的是否获取配送点状态重置" IsEnable="false" ScheduleTime="7200" />
+    <BaseTask xsi:type="SHQXORDER" Name="SHQXORDER" Text="SHQX订单下载" IsEnable="false" ScheduleTime="300" />
+    <BaseTask xsi:type="SHQXORDERRESPONSE" Name="SHQXORDERRESPONSE" Text="SHQX订单响应" IsEnable="false" ScheduleTime="60" />
+    <BaseTask xsi:type="SHQXORDEROVERQUEREN" Name="SHQXORDEROVERQUEREN" Text="SHQX订单完成后确认" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="SHQXORDERWRITE" Name="SHQXORDERWRITE" Text="SHQX订单自填上传" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="SHQXORDERWRITE1" Name="SHQXORDERWRITE1" Text="SHQX订单自填作废" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="SHQXORDERWRITEQUEREN" Name="SHQXORDERWRITEQUEREN" Text="SHQX订单自填确认" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="SHQXRETURNORDER" Name="SHQXRETURNORDER" Text="SHQX退单下载" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="SHQXRETURNORDERRESPONSE" Name="SHQXRETURNORDERRESPONSE" Text="SHQX退货单响应" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="SHQXRETURNORDERWRITE" Name="SHQXRETURNORDERWRITE" Text="SHQX退单自填上传" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="SHQXRETURNORDERWRITE1" Name="SHQXRETURNORDERWRITE1" Text="SHQX退单自填作废" IsEnable="false" ScheduleTime="100" />
+
+    <BaseTask xsi:type="SHQXRETURNORDERWRITEQUEREN" Name="SHQXRETURNORDERWRITEQUEREN" Text="SHQX退单自填确认" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="SHQXPURCHASE" Name="SHQXPURCHASE" Text="SHQX配送单上传" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="SHQXPURCHASE1" Name="SHQXPURCHASE1" Text="SHQX配送单作废" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="SHQXPURCHASEQUEREN" Name="SHQXPURCHASEQUEREN" Text="SHQX配送单上传确认" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="SHQXPURCHASESTATUS" Name="SHQXPURCHASESTATUS" Text="SHQX配送单明细状态获取" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="SHQXDEBITNOTE" Name="SHQXDEBITNOTE" Text="SHQX发票上传" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="SHQXDEBITNOTE1" Name="SHQXDEBITNOTE1" Text="SHQX发票作废" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="SHQXDEBITNOTEQUEREN" Name="SHQXDEBITNOTEQUEREN" Text="SHQX发票确认" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="SHQXDEBITNOTESTATUS" Name="SHQXDEBITNOTESTATUS" Text="SHQX发票明细状态获取" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="SHQXSTOCK" Name="SHQXSTOCK" Text="SHQX库存上传" IsEnable="false" ScheduleTime="100" />
+  </TaskList>
+</TaskBranch>

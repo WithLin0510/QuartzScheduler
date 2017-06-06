@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskBranch xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>FDJ-BeiJing</Name>
+  <BranchID>FDJ</BranchID>
+  <TPID>PT0052</TPID>
+  <IsEnable>true</IsEnable>
+  <TaskList>
+    <!--<BaseTask Name="HNname1" Text="HN任务1" IsEnable="true" ScheduleTime="1" />
+    <BaseTask Name="HNname2" Text="HN任务2" IsEnable="true" ScheduleTime="3" />-->
+    <BaseTask xsi:type="BJTEST" Name="BJTEST" Text="BJ测试" IsEnable="false" ScheduleTime="100" />
+    <BaseTask xsi:type="BJORDER" Name="BJORDER" Text="BJ订单下载" IsEnable="true" ScheduleTime="100" />
+    <BaseTask xsi:type="BJPURCHASE" Name="BJPURCHASE" Text="BJ配送" IsEnable="false" ScheduleTime="100" />
+  </TaskList>
+</TaskBranch>

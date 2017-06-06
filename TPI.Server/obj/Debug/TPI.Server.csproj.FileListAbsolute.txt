@@ -1,0 +1,94 @@
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\obj\Debug\TPI.Server.csprojResolveAssemblyReference.cache
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\obj\Debug\TPI.Server.Form1.resources
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\obj\Debug\TPI.Server.Properties.Resources.resources
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\obj\Debug\TPI.Server.csproj.GenerateResource.Cache
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\Config\BJConfig.xml
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\Config\EnvironmentConfig.xml
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\Config\FJConfig.xml
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\Config\SHGPOConfig.xml
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\Config\SHQXConfig.xml
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\Config\HNConfig.xml
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\Config\Log\log4net.config
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\Config\ActiveMode\FDJ_BeiJing.Config.XML
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\Config\ActiveMode\FDL_ShangHaiGPO.Config.XML
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\Config\ActiveMode\FQ6_ShangHaiQiXie.Config.XML
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\Config\ActiveMode\FC3_HangZhou.Config.XML
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\Config\ActiveMode\FDB_FuJian.Config.XML
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\Config\ActiveMode\FDW_HeNan.Config.XML
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\Config\ActiveMode\FWP_ChangCun.Config.XML
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\TPI.Server.exe.config
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\TPI.Server.exe
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\TPI.Server.pdb
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\log4net.dll
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\Newtonsoft.Json.dll
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\TPI.BeiJing.dll
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\TPI.BLL.dll
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\TPI.ChangCun.dll
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\TPI.Common.dll
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\TPI.FuJian.dll
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\TPI.HangZhou.dll
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\TPI.HeNan.dll
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\TPI.ShangHaiQiXie.dll
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\EncryptionLibrary.dll
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\Quartz.dll
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\EntitysLayer.dll
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\Common.Logging.Core.dll
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\Common.Logging.dll
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\TPI.BeiJing.pdb
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\TPI.BLL.pdb
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\TPI.ChangCun.pdb
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\TPI.Common.pdb
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\TPI.FuJian.pdb
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\TPI.HangZhou.pdb
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\TPI.HeNan.pdb
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\bin\Debug\TPI.ShangHaiQiXie.pdb
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\obj\Debug\TPI.Server.exe
+D:\自学\Company\Trunk\01 Source\TPI\TPI.Server\obj\Debug\TPI.Server.pdb
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\TPI.Server.exe.config
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\obj\Debug\TPI.Server.exe
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\obj\Debug\TPI.Server.pdb
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\Config\BJConfig.xml
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\Config\FJConfig.xml
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\Config\SHGPOConfig.xml
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\Config\SHQXConfig.xml
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\Config\HNConfig.xml
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\Config\Log\log4net.config
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\Config\EnvironmentConfig.xml
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\Config\ActiveMode\FDJ_BeiJing.Config.XML
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\Config\ActiveMode\FDL_ShangHaiGPO.Config.XML
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\Config\ActiveMode\FQ6_ShangHaiQiXie.Config.XML
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\Config\ActiveMode\FC3_HangZhou.Config.XML
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\Config\ActiveMode\FDB_FuJian.Config.XML
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\Config\ActiveMode\FDW_HeNan.Config.XML
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\Config\ActiveMode\FWP_ChangCun.Config.XML
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\TPI.Server.exe
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\TPI.Server.pdb
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\log4net.dll
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\Newtonsoft.Json.dll
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\TPI.BeiJing.dll
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\TPI.BLL.dll
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\TPI.ChangCun.dll
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\TPI.Common.dll
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\TPI.FuJian.dll
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\TPI.HangZhou.dll
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\TPI.HeNan.dll
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\TPI.ShangHaiQiXie.dll
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\EncryptionLibrary.dll
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\Quartz.dll
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\EntitysLayer.dll
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\Common.Logging.Core.dll
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\Common.Logging.dll
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\TPI.BeiJing.pdb
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\TPI.BLL.pdb
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\TPI.ChangCun.pdb
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\TPI.Common.pdb
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\TPI.FuJian.pdb
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\TPI.HangZhou.pdb
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\TPI.HeNan.pdb
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\bin\Debug\TPI.ShangHaiQiXie.pdb
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\obj\Debug\TPI.Server.csprojResolveAssemblyReference.cache
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\obj\Debug\TPI.Server.Form1.resources
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\obj\Debug\TPI.Server.Properties.Resources.resources
+D:\自学\Company\Trunk\测试库程序\TPI\TPI.Server\obj\Debug\TPI.Server.csproj.GenerateResource.Cache
